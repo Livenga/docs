@@ -36,7 +36,7 @@ Arm Cortex-M0(Cortexの種類は問わないが) を開発する際に,
 擬似命令  
 シンボル *name* の種類を関数シンボルもしくはオブジェクトシンボルのどちらかに設定.
 
-引数 *%type_description% について
+引数 *%type_description* について
 * *%function* 関数
 * *%object* データオブジェクト
 * *%tls_object* thread-local データオブジェクト
